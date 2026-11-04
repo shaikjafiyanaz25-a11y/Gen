@@ -7,3 +7,4 @@ sentence-transformers
 pypdf
 google-generativeai
 python-dotenv
+langchain-google-genai
